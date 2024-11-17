@@ -1,1 +1,1 @@
-# Silicon Rush Hackathon
+# GeorgeHacks Hackathon
